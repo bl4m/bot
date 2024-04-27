@@ -1,0 +1,2 @@
+1. add warns mutes to database and clean up
+2. add leveling system

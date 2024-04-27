@@ -1,0 +1,55 @@
+{
+    "Moderation": {
+        "!purge":"Delete a specified number of messages.",
+        "!warn": "Warns a member.",
+        "!warns": "Check a user's warnings.",
+        "!clear_warns": "Clear all warnings for a user.",
+        "!mute": "Mute a member for a period of time",
+        "!unmute": "Unmute a member.",
+        "!kick": "Kicks a member.",
+        "!ban": "Bans a member."
+    },
+    "Utility": {
+        "!afk": "Set your AFK status.",
+        "!giveaway": "Host a Giveaway.",
+        "!help": "Get help with the commands.",
+        "!level": "Check your level.",
+        "!leaderboard": "Check the levels leaderboard.",
+        "!nick": "Change the nickname of a user.",
+        "!role": "Add or remove a role from a user.",
+        "!ping": "Check the bot's latency.",
+        "!poll": "Create a poll.",
+        "!say": "Make the bot say something.",
+        "!snipe": "Snipe a deleted text or image.",
+        "!snipe_edit": "Snipe an edited message."
+    },
+    "Info": {
+        "!avatar": "Get a user's avatar.",
+        "!banner": "Get a user's banner.",
+        "!activity": "Get the server's activity.",
+        "!userinfo": "Get a user's information.",
+        "!serverinfo": "Get the server's information"
+    },
+    "Entertainment": {
+        "!coinflip": "Flip a coin.",
+        "!gayrate": "Check how gay a user is.",
+        "!gyat": "Get a user's Gyat level.",
+        "!hack": "Hack a user.",
+        "!ip": "Get the IP of a user.",
+        "!pp": "Get a user's PP size.",
+        "!ship": "Ship 2 users.",
+        "!duel": "Duel a user.",
+        "!joke": "Get a random joke.",
+        "!rizz": "Get a random pick-up line.",
+        "!roast": "Get a random roast.",
+        "!truth": "Get a random truth question.",
+        "!dare": "Get a random dare."
+      },
+    "Interactions": {
+        "!cuddle": "Cuddle with a user.",
+        "!hug": "Hug a user.",
+        "!kill": "Kill a user.",
+        "!kiss": "Kiss a user.",
+        "!slap": "Slap a user."
+    }
+}

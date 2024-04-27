@@ -1,0 +1,19 @@
+{
+    "functions.afk":"afk",
+    "functions.warn":"warn",
+    "functions.mute":"mute",
+    "functions.debug":"debug",
+    "functions.clear":"clear",
+    "functions.giveaway":"giveaway",
+    "functions.serverinfo":"serverinfo",
+    "functions.userinfo":"userinfo",
+    "functions.help":"help",
+    "functions.activity":"activity",
+    "functions.user_activity":"user activity",
+    "functions.voiceLog":"voice log",
+    "functions.actions":"actions",
+    "functions.chatLog":"chat log",
+    "functions.translate":"translate",
+    "functions.word_game":"word game",
+    "functions.fun":"fun"
+}
