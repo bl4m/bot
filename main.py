@@ -3,7 +3,7 @@ import discord
 import importlib
 import json
 
-TOKEN = "MTIyMjkyMDk3MzQzNTY2NjUwMg.GVkUQm.8vowIXrnBIaznfv7EWvCGPngC8OSF6N4N7xK_k"
+TOKEN = ""
 
 bot = commands.Bot(command_prefix="!",intents=discord.Intents.all())
 bot.remove_command('help')
